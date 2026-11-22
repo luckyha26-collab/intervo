@@ -2,6 +2,7 @@ node_modules/
 build/
 dist/
 server.js
+bun.lock*
 coverage/
 .DS_Store
 *.log
