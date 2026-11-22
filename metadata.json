@@ -1,0 +1,6 @@
+{
+  "name": "INTERVO - Live Coding Arena & AI Mock Interview Coach",
+  "description": "Interactive AI-powered live coding interview arena with Monaco editor, real-time code execution, AI technical interviewer, weakness detection, and multi-participant GD calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
